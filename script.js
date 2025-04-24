@@ -20,4 +20,3 @@ function factorial(n) {
     const sorted = sortArrayAscending(arr);
     document.getElementById("sortResult").innerText = "Sorted Array: " + sorted.join(", ");
   }
-  
